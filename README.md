@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&pause=1000&color=05f&width=435&height=100&lines=Full-Stack%20Developer)
-
+# Hi! I'M CYUSA Alain Tresor 👋
 # 💫 About Me:
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=TresorRw&label=Profile%20views&color=blue&style=flat" alt="TresorRw" /> 
