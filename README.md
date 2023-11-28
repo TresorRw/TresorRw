@@ -3,7 +3,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=TresorRw&label=Profile%20views&color=blue&style=flat" alt="TresorRw" /> 
 </p>
- - 📧 Reach me via email: catresor.business@gmail.com <br>
+ - 📧 Reach me via email: alaintresorcyusa683@gmail.com <br>
  - 🔭 I’m currently working on an issue tracker app <br>
 Feel free to star this repo 🤗
 
