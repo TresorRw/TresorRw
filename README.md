@@ -19,6 +19,9 @@ Feel free to star this repo 🤗
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TresorRw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## WakaTime Stats
+![](https://github-readme-stats.vercel.app/api/wakatime?username=TresorRw&layout=compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
